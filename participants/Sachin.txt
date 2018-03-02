@@ -7,3 +7,4 @@ Sachin
 Research roboticist
 
 **Motivation:** I would like to contribute to solve real life probelms.
+**Fun Fact:** I enjoy developing games.
